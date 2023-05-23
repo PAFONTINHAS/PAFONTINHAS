@@ -9,7 +9,7 @@ Sobre Mim:
 - 🔭 Trabalhando no meu TCC de Desenvolvimento de sistemas(Presentes nos Repositórios YourFinances e YFTestes.Sistemas)
 - 🌱 Atualmente apredendo PHP ...
 - 📫 Contate-me pelo instagram, linkedin ou pelo email: petersonfontinhas@gmail.com
-- 😄 Pronomes:Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div>
 <h3>Midias Sociais:</h3>
