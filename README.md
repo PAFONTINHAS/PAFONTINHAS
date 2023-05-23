@@ -1,7 +1,6 @@
-### Fullstack Dev
+### Peterson Fontinhas
 
-
-Peterson Fontinhas
+#Estudante de programação
 
 “É preciso saber tirar proveito de uma desgraça, e não deixar-se vencer por ela.” – Os Intocáveis.
 
