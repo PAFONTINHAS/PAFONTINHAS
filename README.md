@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3>Midias Sociais:</h3>
 <a href="https://www.linkedin.com/in/peterson-fontinhas-9265b0261" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp
 <a href="https://instagram.com/peterson.fontinhas?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp
- ([https://www.example.com](https://instagram.com/peterson.fontinhas?igshid=MzNlNGNkZWQ4Mg==)){:target="_blank" rel="noopener noreferrer"}<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp
 </div>
 <hr>
 
