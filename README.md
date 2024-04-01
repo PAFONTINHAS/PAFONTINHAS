@@ -6,10 +6,9 @@
 
 Sobre Mim:
 
-- 🔭 Trabalhando no meu TCC de Desenvolvimento de sistemas(Presentes nos Repositórios YourFinances e YFTestes.Sistemas)
-- 🌱 Atualmente apredendo PHP ...
+- 🔭 Desevolvedor para a Empresa Eva Agricultura 
+- 🌱 Atualmente estudando Flutter ...
 - 📫 Contate-me pelo instagram, linkedin ou pelo email: petersonfontinhas@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div>
 <h3>Midias Sociais:</h3>
