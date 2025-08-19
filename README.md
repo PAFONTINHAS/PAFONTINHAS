@@ -2,7 +2,7 @@
 
 #Estudante de programação
 
-“É preciso saber tirar proveito de uma desgraça, e não deixar-se vencer por ela.” – Os Intocáveis.
+Mesmo sozinho, você sempre estará em um projeto em grupo, com você do passado e o você do futuro. Código ruim hoje é dívida para o você do futuro. **Mesmo sozinho, você nunca programa só.**
 
 Sobre Mim:
 
