@@ -2,7 +2,8 @@
 
 #Estudante de programação
 
-Mesmo sozinho, você sempre estará em um projeto em grupo, com você do passado e o você do futuro. Código ruim hoje é dívida para o você do futuro. **Mesmo sozinho, você nunca programa só.**
+---
+  > “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” — Martin Fowler 
 
 Sobre Mim:
 
